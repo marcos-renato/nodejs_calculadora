@@ -1,2 +1,2 @@
 # nodejs_calculadora
-projeto para para aprender os comandos node.js
+projeto para aprender os comandos node.js
